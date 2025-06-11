@@ -62,4 +62,6 @@ These scans simulate the reconnaissance phase of a penetration test. Nmap is a f
 
 **Kerry “KJ” Jackson II**
 🎓 Computer Information Systems Major | Cybersecurity Minor
-🔗 [LinkedIn]((https://www.linkedin.com/in/kerry-jackson-ii-b6795126b/)) | [GitHub](https://github.com/kjacksonn)
+🔗 [LinkedIn](https://www.linkedin.com/in/kerry-jackson-ii-b6795126b/) | [GitHub](https://github.com/kjacksonn)
+
+```
