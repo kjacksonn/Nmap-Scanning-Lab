@@ -20,7 +20,8 @@ nmap -p- 127.0.0.1
 
 📌 **Purpose**: Scans all 65,535 TCP ports on the target machine to find open ports.
 
-📁 **Output File**: [`scans/basic_port_scan.txt`](scans/basic_port_scan.txt)
+📸 **Screenshot**:
+![Basic Port Scan](screenshots/basic_port_scan.png)
 
 ---
 
@@ -32,7 +33,8 @@ nmap -sV 127.0.0.1
 
 📌 **Purpose**: Identifies running services and their versions on detected open ports.
 
-📁 **Output File**: [`scans/service_version_scan.txt`](scans/service_version_scan.txt)
+📸 **Screenshot**:
+![Service Version Detection](screenshots/service-version-detection.png)
 
 ---
 
@@ -44,7 +46,9 @@ sudo nmap -A 127.0.0.1
 
 📌 **Purpose**: Performs OS detection, version detection, script scanning, and traceroute for in-depth host info.
 
-📁 **Output File**: [`scans/aggressive_os_scan.txt`](scans/aggressive_os_scan.txt)
+📸 **Screenshot**:
+![Aggressive OS Scan](screenshots/aggressive_os_scan.png)
+![Aggressive OS Scan 2](screenshots/aggressive_os_scan2.png)
 
 ---
 
@@ -58,5 +62,4 @@ These scans simulate the reconnaissance phase of a penetration test. Nmap is a f
 
 **Kerry “KJ” Jackson II**
 🎓 Computer Information Systems Major | Cybersecurity Minor
-🏫 Saginaw Valley State University
 🔗 [LinkedIn](https://www.linkedin.com/in/kerryjacksonii) | [GitHub](https://github.com/kjacksonn)
